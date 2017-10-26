@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.deephacks.lmdbjni/lmdbjni-osx64:0.4.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/deephacks/lmdbjni/lmdbjni-osx64/0.4.6/lmdbjni-osx64-0.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

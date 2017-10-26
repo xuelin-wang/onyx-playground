@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: joplin.core:0.3.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/joplin/core/joplin.core/0.3.6/joplin.core-0.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
